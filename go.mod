@@ -1,4 +1,4 @@
-module github.com/guilinonline/gojenkins
+module github.com/guilinonline/gojenkins/v2
 
 go 1.17
 
